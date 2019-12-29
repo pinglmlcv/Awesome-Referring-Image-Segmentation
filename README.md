@@ -59,3 +59,8 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | --- | --- | --- | --- |
 | NA | [Tracking by Natural Language Specification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 
+## 5. Localization
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | https://github.com/ronghanghu/natural-language-object-retrieval |
+
