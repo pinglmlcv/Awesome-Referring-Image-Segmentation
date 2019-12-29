@@ -28,7 +28,7 @@ A collection of referring segmentation papers and datasets.
 
 ---
 
-## 2. Methods
+## 2. Image
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
