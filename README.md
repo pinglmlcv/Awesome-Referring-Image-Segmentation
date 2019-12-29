@@ -62,8 +62,10 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
 
 
-## 5. Localization
+## 5. Grounding
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+| A-ATT | [Visual Grounding via Accumulated Attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf) | CVPR 2018 | NA |
 | SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | [[code]](https://github.com/ronghanghu/natural-language-object-retrieval)  |
+
 
