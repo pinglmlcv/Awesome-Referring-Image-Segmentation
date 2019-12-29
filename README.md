@@ -64,6 +64,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 ## 5. Grounding
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|  ZSG | [Zero-Shot Grounding of Objects from Natural Language Queries](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/TheShadow29/zsgnet-pytorch)  |
 |  | [A Fast and Accurate One-Stage Approach to Visual Grounding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Fast_and_Accurate_One-Stage_Approach_to_Visual_Grounding_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/zyang-ur/onestage_grounding)  |
 |  | [Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Improving_Referring_Expression_Grounding_With_Cross-Modal_Attention-Guided_Erasing_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/xh-liu/CM-Erase-REG)  |
 | A-ATT | [Visual Grounding via Accumulated Attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf) | CVPR 2018 | NA |
