@@ -62,6 +62,8 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
 
 ## 5. Grounding
+
+
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |  ZSG | [Zero-Shot Grounding of Objects from Natural Language Queries](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/TheShadow29/zsgnet-pytorch)  |
