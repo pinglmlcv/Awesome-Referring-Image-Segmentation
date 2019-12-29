@@ -57,9 +57,8 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 ## 4. Tracking
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| NA | [Tracking by Natural Language Specification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 | NA | [Grounding-Tracking-Integration](https://arxiv.org/pdf/1912.06316.pdf) | arxiv 2019 |  |
-
+| NA | [Tracking by Natural Language Specification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) | CVPR 2017 |  |
 
 
 ## 5. Grounding
