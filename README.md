@@ -1,9 +1,9 @@
-# Awesome-Referring-Image-Segmentation
+# Awesome-Referring-Segmentation
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-A collection of referring image segmentation papers and datasets.
+A collection of referring segmentation papers and datasets.
 
 > Feel free to create a PR or an issue.
 
@@ -48,3 +48,4 @@ A collection of referring image segmentation papers and datasets.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 | NA | [Asymmetric Cross-guided Attention Network for Actor and Action Video Segmentation from Natural Language Query](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) | ICCV 2019 |  |
+| NA | [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/pdf/1803.07485.pdf) | CVPR 2018 |  |
