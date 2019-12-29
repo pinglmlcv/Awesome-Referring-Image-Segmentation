@@ -62,5 +62,5 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 ## 5. Localization
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-| SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | [code]](https://github.com/ronghanghu/natural-language-object-retrieval)  |
+| SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | [code](https://github.com/ronghanghu/natural-language-object-retrieval)  |
 
