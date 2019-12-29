@@ -63,7 +63,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
 ## 5. Grounding
 
-Supervised
+### Supervised
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
