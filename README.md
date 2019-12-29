@@ -64,6 +64,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 ## 5. Grounding
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|  | [Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Improving_Referring_Expression_Grounding_With_Cross-Modal_Attention-Guided_Erasing_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/xh-liu/CM-Erase-REG)  |
 | A-ATT | [Visual Grounding via Accumulated Attention](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deng_Visual_Grounding_via_CVPR_2018_paper.pdf) | CVPR 2018 | NA |
 |  | [Grounding of Textual Phrases in Images by Reconstruction](https://arxiv.org/pdf/1511.03745.pdf) | ECCV 2016 | [[code]](https://github.com/kanchen-usc/GroundeR)  |
 | SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | [[code]](https://github.com/ronghanghu/natural-language-object-retrieval)  |
