@@ -75,3 +75,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | SCRC | [Natural Language Object Retrieval](https://arxiv.org/pdf/1511.04164.pdf) | CVPR 2016 | [[code]](https://github.com/ronghanghu/natural-language-object-retrieval)  |
 
 
+### Weakly-Supervised
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+|   | [Grounding of Textual Phrases in Images by Reconstruction] (https://arxiv.org/pdf/1511.03745.pdf) |  ECCV 2016 | [[code]](https://github.com/kanchen-usc/GroundeR) t |
