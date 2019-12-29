@@ -1,9 +1,9 @@
-# Awesome-Referring-Segmentation
+# Awesome-Referring-Segmentation/Tracking/Localization
 
 [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 
-A collection of referring segmentation papers and datasets.
+A collection of referring segmentation/tracking/localization papers and datasets.
 
 Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
@@ -30,7 +30,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
 ---
 
-## 2. Image
+## 2. Image Segmentation
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
