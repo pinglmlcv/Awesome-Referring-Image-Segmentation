@@ -5,6 +5,8 @@
 
 A collection of referring segmentation papers and datasets.
 
+Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
+
 > Feel free to create a PR or an issue.
 
 ![examples](https://github.com/MarkMoHR/Awesome-Referring-Image-Segmentation/blob/master/teaser.png)
