@@ -51,3 +51,11 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | --- | --- | --- | --- |
 | NA | [Asymmetric Cross-guided Attention Network for Actor and Action Video Segmentation from Natural Language Query](http://openaccess.thecvf.com/content_ICCV_2019/papers/Wang_Asymmetric_Cross-Guided_Attention_Network_for_Actor_and_Action_Video_Segmentation_ICCV_2019_paper.pdf) | ICCV 2019 |  |
 | NA | [Actor and Action Video Segmentation from a Sentence](https://arxiv.org/pdf/1803.07485.pdf) | CVPR 2018 |  |
+
+---
+
+## 4. Tracking
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+| NA | [Tracking by Natural Language Specification](http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Tracking_by_Natural_CVPR_2017_paper.pdf) | ICCV 2019 |  |
+
