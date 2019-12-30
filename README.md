@@ -79,4 +79,4 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 ### Weakly-Supervised
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
-|   | [Grounding of Textual Phrases in Images by Reconstruction] (https://arxiv.org/pdf/1511.03745.pdf) |  ECCV 2016 | [[code]](https://github.com/kanchen-usc/GroundeR) t |
+|   | [Grounding of Textual Phrases in Images by Reconstruction](https://arxiv.org/pdf/1511.03745.pdf) |  ECCV 2016 | [[code]](https://github.com/kanchen-usc/GroundeR) t |
