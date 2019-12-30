@@ -67,6 +67,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
+|   | [Parallel Attention: A Unified Framework for Visual Object Discovery through Dialogs and Queries](http://openaccess.thecvf.com/content_cvpr_2018/papers/Zhuang_Parallel_Attention_A_CVPR_2018_paper.pdf) | CVPR 2019 | [[code]](https://github.com/bohanzhuang/Parallel-Attention-A-Unified-Framework-for-Visual-Object-Discovery-through-Dialogs-and-Queries) |
 |   | [Dynamic Graph Attention for Referring Expression Comprehension](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_Dynamic_Graph_Attention_for_Referring_Expression_Comprehension_ICCV_2019_paper.pdf) | ICCV 2019 |  |
 |  G3RAPHGROUND | [G3RAPHGROUND: Graph-based Language Grounding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bajaj_G3raphGround_Graph-Based_Language_Grounding_ICCV_2019_paper.pdf) | ICCV 2019 |  |
 |  ZSG | [Zero-Shot Grounding of Objects from Natural Language Queries](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/TheShadow29/zsgnet-pytorch)  |
