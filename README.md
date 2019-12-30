@@ -82,3 +82,9 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |   | [Grounding of Textual Phrases in Images by Reconstruction](https://arxiv.org/pdf/1511.03745.pdf) |  ECCV 2016 | [[code]](https://github.com/kanchen-usc/GroundeR) t |
+
+## 6. Captioning
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+|   | [Vision and Language: from Visual Perception to Content Creation](https://arxiv.org/pdf/1912.11872.pdf) |  arxiv 2019 |  |
