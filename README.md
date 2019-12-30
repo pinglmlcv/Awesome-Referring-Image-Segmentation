@@ -68,6 +68,7 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |  G3RAPHGROUND | [G3RAPHGROUND: Graph-based Language Grounding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Bajaj_G3raphGround_Graph-Based_Language_Grounding_ICCV_2019_paper.pdf) | ICCV 2019 |  |
+|   | [NeighbourhoodWatch: Referring Expression Comprehension via Language-guided Graph Attention Networks](http://openaccess.thecvf.com/content_CVPR_2019/papers/Wang_Neighbourhood_Watch_Referring_Expression_Comprehension_via_Language-Guided_Graph_Attention_Networks_CVPR_2019_paper.pdf) | CVPR 2019 |  |
 |  ZSG | [Zero-Shot Grounding of Objects from Natural Language Queries](http://openaccess.thecvf.com/content_ICCV_2019/papers/Sadhu_Zero-Shot_Grounding_of_Objects_From_Natural_Language_Queries_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/TheShadow29/zsgnet-pytorch)  |
 |  | [A Fast and Accurate One-Stage Approach to Visual Grounding](http://openaccess.thecvf.com/content_ICCV_2019/papers/Yang_A_Fast_and_Accurate_One-Stage_Approach_to_Visual_Grounding_ICCV_2019_paper.pdf) | ICCV 2019 | [[code]](https://github.com/zyang-ur/onestage_grounding)  |
 |  | [Improving Referring Expression Grounding with Cross-modal Attention-guided Erasing](http://openaccess.thecvf.com/content_CVPR_2019/papers/Liu_Improving_Referring_Expression_Grounding_With_Cross-Modal_Attention-Guided_Erasing_CVPR_2019_paper.pdf) | CVPR 2019 | [[code]](https://github.com/xh-liu/CM-Erase-REG)  |
