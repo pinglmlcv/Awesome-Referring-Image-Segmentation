@@ -89,3 +89,9 @@ Forked from MarkMoHR/Awesome-Referring-Image-Segmentation.
 | Short name | Paper | Source | Code/Project Link  |
 | --- | --- | --- | --- |
 |   | [Vision and Language: from Visual Perception to Content Creation](https://arxiv.org/pdf/1912.11872.pdf) |  arxiv 2019 |  |
+
+## 7. VQA
+
+| Short name | Paper | Source | Code/Project Link  |
+| --- | --- | --- | --- |
+|   | [VQA: Visual Question Answering](https://arxiv.org/pdf/1505.00468.pdf) |  arxiv 2015 | [[project]](https://visualqa.org) |
